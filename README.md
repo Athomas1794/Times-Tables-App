@@ -1,1 +1,3 @@
 # TimeTablesApp
+
+Android Studio Project
